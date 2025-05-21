@@ -2,7 +2,6 @@
 
 ### CSCI 4625: Computer Vision (Fall 2024) ###
 
-#### By: Sang Luong | Student ID: 105080763 ####
 
 --- 
 
